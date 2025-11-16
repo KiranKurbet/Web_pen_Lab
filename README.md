@@ -25,6 +25,35 @@
 
 ---
 
+---
+Example Run :-
+
+Target URL: http://192.168.5.129/dvwa 
+
+Threads: 50
+
+Brute-force? y
+
+Wordlist path: /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+
+Login? y → admin / password
+
+---
+
+---
+
+Output :-
+
+[Critical] SQLi → Form: id
+
+[High] XSS → Reflected: message
+
+[+] SCAN COMPLETE!
+
+    Open: file:///home/kali/Web-Pentest-Lab/webpen-output/2025-11-16_15-42-22/display/index.html
+
+---
+
 ## Quick Start (Kali Linux)
 
 ```bash
