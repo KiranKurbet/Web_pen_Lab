@@ -56,6 +56,8 @@ Output :-
 
 ## Quick Start (Kali Linux)
 
+Note :- create the virtual environment berfor install requirement.txt
+
 ```bash
 git clone https://github.com/KiranKurbet/Web_pen_Lab.git
 cd Web_pen_lab 
