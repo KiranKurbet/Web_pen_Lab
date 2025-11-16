@@ -28,8 +28,8 @@
 ## Quick Start (Kali Linux)
 
 ```bash
-git clone https://github.com/yourname/Web-Pentest-Lab.git
-cd Web-Pentest-Lab
+git clone https://github.com/KiranKurbet/Web_pen_Lab.git
+cd Web_pen_lab 
 pip install -r requirements.txt
 playwright install chromium
 chmod +x webpen.py
