@@ -1,0 +1,12 @@
+Web-Pentest-Lab/
+│
+├── webpen.py                # Main scanner (v12.4)
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+├── docs/
+│   └── screenshots/
+│       └── example-report.png
+└── examples/
+    └── wordlist.txt         # Small demo wordlist
